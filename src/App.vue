@@ -49,7 +49,8 @@ const tabActiveStyle = "bg-blue-100";
 
 <template>
   <main class="h-[100vh]">
-    <div class="py-6 h-full border border-red-500 flex justify-center">
+    <div class="text-center"><h1 class="text-2xl">Todo</h1></div>
+    <div class="py-6 h-full flex justify-center">
       <div class="flex w-[60vw] shadow-md">
         <div class="h-full border border-gray-100">
           <div
